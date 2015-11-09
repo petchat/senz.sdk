@@ -1,4 +1,4 @@
-# senz.sdk
-senz.sdk下载和使用说明文档
+## Senz SDK for iOS
+- SDK下载：https://github.com/petchat/senz.sdk/releases
+- 开发者文档：https://github.com/petchat/senz.sdk/wiki
 
-## Llegó el momento de presenciar un milagro.
